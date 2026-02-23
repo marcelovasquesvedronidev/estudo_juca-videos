@@ -1,0 +1,653 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Cinestar - Film & Video Production Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Subscribe Form - Cinestar",
+            "screenshot": "screenshots\/subscribe-form-cinestar.jpg",
+            "source": "templates\/subscribe-form-cinestar.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cinestar\/template-kit\/subscribe-form-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Plan Form - Cinestar",
+            "screenshot": "screenshots\/pricing-plan-form-cinestar.jpg",
+            "source": "templates\/pricing-plan-form-cinestar.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cinestar\/template-kit\/pricing-plan-form-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form - Cinestar",
+            "screenshot": "screenshots\/contact-form-cinestar.jpg",
+            "source": "templates\/contact-form-cinestar.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cinestar\/template-kit\/contact-form-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cinestar\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cinestar\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog Archives",
+            "screenshot": "screenshots\/blog-archives.jpg",
+            "source": "templates\/blog-archives.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cinestar\/template-kit\/blog-archives\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cinestar\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cinestar\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cinestar\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project Detail",
+            "screenshot": "screenshots\/project-detail.jpg",
+            "source": "templates\/project-detail.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cinestar\/template-kit\/project-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cinestar\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cinestar\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/cinestar\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.22.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.2.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "RomethemeForm",
+            "version": "1.1.7",
+            "file": "romethemeform\/rometheme-form.php",
+            "author": "Rometheme"
+        }
+    ],
+    "images": [
+        {
+            "filename": "behind-the-shooting-of-video-online-commercial-pro-2021-08-29-05-54-33-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/behind-the-shooting-of-video-online-commercial-pro-2021-08-29-05-54-33-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 243247,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/23R7DYLTW8"
+        },
+        {
+            "filename": "logo1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/03\/logo1.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 6452,
+            "dimensions": [
+                642,
+                145
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "production-team-working-together-in-a-studio-2021-09-03-14-41-34-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/production-team-working-together-in-a-studio-2021-09-03-14-41-34-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-archives.json",
+                    "name": "Blog Archives"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 236951,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/23R7DYLTW8"
+        },
+        {
+            "filename": "liquifer.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/liquifer.png",
+            "templates": [
+                {
+                    "source": "templates\/blog-archives.json",
+                    "name": "Blog Archives"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 228803,
+            "dimensions": [
+                576,
+                384
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "side-view-of-serious-women-looking-at-each-other-2021-08-30-19-56-41-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/side-view-of-serious-women-looking-at-each-other-2021-08-30-19-56-41-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 253457,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/23R7DYLTW8"
+        },
+        {
+            "filename": "professional-camera-man-at-work-2022-02-09-18-59-44-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/professional-camera-man-at-work-2022-02-09-18-59-44-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 244249,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/23R7DYLTW8"
+        },
+        {
+            "filename": "female-model-posing-for-video-camera-on-film-set-2021-08-26-16-14-45-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/female-model-posing-for-video-camera-on-film-set-2021-08-26-16-14-45-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                }
+            ],
+            "filesize": 248847,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/23R7DYLTW8"
+        },
+        {
+            "filename": "woman-holding-a-movie-production-clapperboard-2022-02-10-06-42-20-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/woman-holding-a-movie-production-clapperboard-2022-02-10-06-42-20-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                }
+            ],
+            "filesize": 215002,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/23R7DYLTW8"
+        },
+        {
+            "filename": "black-and-white-headshot-of-african-man-and-cauca-2022-02-08-03-57-50-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/black-and-white-headshot-of-african-man-and-cauca-2022-02-08-03-57-50-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 258291,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/23R7DYLTW8"
+        },
+        {
+            "filename": "japanese-students-meeting-outdoors-2021-09-01-23-43-05-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/japanese-students-meeting-outdoors-2021-09-01-23-43-05-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 253985,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/23R7DYLTW8"
+        },
+        {
+            "filename": "man-with-guitar-2021-09-24-03-39-54-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/man-with-guitar-2021-09-24-03-39-54-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 245779,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/23R7DYLTW8"
+        },
+        {
+            "filename": "happy-2021-08-28-05-57-50-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/happy-2021-08-28-05-57-50-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 246954,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/23R7DYLTW8"
+        },
+        {
+            "filename": "happy-couple-at-fun-fair-drinking-soft-drinks-2022-01-18-19-56-03-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/happy-couple-at-fun-fair-drinking-soft-drinks-2022-01-18-19-56-03-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 250359,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/23R7DYLTW8"
+        },
+        {
+            "filename": "product-photography-shoot-of-shoes-2021-09-03-07-44-14-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/product-photography-shoot-of-shoes-2021-09-03-07-44-14-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 261858,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/23R7DYLTW8"
+        },
+        {
+            "filename": "award1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/award1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 19258,
+            "dimensions": [
+                688,
+                326
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/23R7DYLTW8"
+        },
+        {
+            "filename": "award2.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/award2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 24925,
+            "dimensions": [
+                522,
+                372
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/23R7DYLTW8"
+        },
+        {
+            "filename": "industrial-warehouse-modern-facade-with-door-and-s-2021-08-26-17-11-06-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/industrial-warehouse-modern-facade-with-door-and-s-2021-08-26-17-11-06-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 235023,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/23R7DYLTW8"
+        },
+        {
+            "filename": "inside-of-an-event-venue-2021-09-02-17-02-29-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/inside-of-an-event-venue-2021-09-02-17-02-29-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 204918,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/23R7DYLTW8"
+        }
+    ]
+}

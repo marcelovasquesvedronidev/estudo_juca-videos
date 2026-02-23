@@ -1,0 +1,157 @@
+{
+    "version": "0.4",
+    "title": "Subscribe Form &#8211; Cinestar",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-contact",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "191b7b89",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "row",
+                "flex_gap": {
+                    "column": "20",
+                    "row": "20",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 20
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "_title": "Edit Here",
+                "flex_direction_tablet": "column"
+            },
+            "elements": [
+                {
+                    "id": "763b149e",
+                    "settings": {
+                        "content_width": "full",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_title": "Left"
+                    },
+                    "elements": [
+                        {
+                            "id": "2716b8b2",
+                            "settings": {
+                                "content_width": "full",
+                                "show_label": "",
+                                "label_text": "Email",
+                                "name_input": "rform-email",
+                                "placeholder_input": "Your Email",
+                                "warning_message": "This field is required",
+                                "input_padding": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "input_border_radius": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "input_background_normal_background": "classic",
+                                "input_border_normal_border": "solid",
+                                "input_border_normal_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "input_typography_typography": "globals\/typography?id=text",
+                                    "input_background_normal_color": "globals\/colors?id=68fdc9b",
+                                    "input_color_normal": "globals\/colors?id=primary",
+                                    "input_color_hover": "globals\/colors?id=primary",
+                                    "input_color_focus": "globals\/colors?id=primary",
+                                    "input_color_warning": "globals\/colors?id=secondary",
+                                    "input_border_normal_color": "globals\/colors?id=primary",
+                                    "placeholder_typography_typography": "globals\/typography?id=text",
+                                    "placeholder_color": "globals\/colors?id=primary",
+                                    "warning_color": "globals\/colors?id=secondary",
+                                    "warning_typography_typography": "globals\/typography?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "email",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "2de3a3ae",
+                    "settings": {
+                        "content_width": "full",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_title": "Right"
+                    },
+                    "elements": [
+                        {
+                            "id": "720dcbdb",
+                            "settings": {
+                                "content_width": "full",
+                                "button_text": "Subscribe Now",
+                                "btn_text_align_tablet": "center",
+                                "btn_padding": {
+                                    "unit": "px",
+                                    "top": "19",
+                                    "right": "30",
+                                    "bottom": "19",
+                                    "left": "30",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "rform_button_submit",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": true,
+            "elType": "container"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_canvas"
+    }
+}

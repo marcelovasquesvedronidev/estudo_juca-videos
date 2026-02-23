@@ -1,0 +1,990 @@
+{
+    "version": "0.4",
+    "title": "Portfolio",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "637a5aed",
+            "settings": {
+                "flex_direction": "column",
+                "min_height": {
+                    "unit": "vh",
+                    "size": 40,
+                    "sizes": []
+                },
+                "min_height_tablet": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "min_height_mobile": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "flex_justify_content": "center",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/production-team-working-together-in-a-studio-2021-09-03-14-41-34-utc.jpg",
+                    "id": 55,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.35,
+                    "sizes": []
+                },
+                "css_filters_css_filter": "custom",
+                "css_filters_saturate": {
+                    "unit": "px",
+                    "size": 0,
+                    "sizes": []
+                },
+                "_title": "Header Heading"
+            },
+            "elements": [
+                {
+                    "id": "35348193",
+                    "settings": {
+                        "content_width": "full",
+                        "_title": "Edit Here"
+                    },
+                    "elements": [
+                        {
+                            "id": "493764d",
+                            "settings": {
+                                "title": "Portfolio",
+                                "align": "left",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=primary"
+                                },
+                                "header_size": "h1",
+                                "align_tablet": "center",
+                                "content_width": "full"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1b5563f1",
+                            "settings": {
+                                "editor": "<p><a href=\"#\">Home<\/a> &gt; Portfolio<\/p>",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=65f7700"
+                                },
+                                "align_tablet": "center",
+                                "content_width": "full"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "c3f57a6",
+            "settings": {
+                "flex_direction": "column",
+                "padding": {
+                    "unit": "em",
+                    "top": "6",
+                    "right": "1",
+                    "bottom": "6",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "_title": "Portfolio"
+            },
+            "elements": [
+                {
+                    "id": "5aac80c8",
+                    "settings": {
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 900,
+                            "sizes": []
+                        },
+                        "_title": "Heading"
+                    },
+                    "elements": [
+                        {
+                            "id": "3f438052",
+                            "settings": {
+                                "title": "pORTFOLIO",
+                                "header_size": "h6",
+                                "align": "center",
+                                "_animation": "fadeInUp",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=3a3b655"
+                                },
+                                "content_width": "full"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1e084b67",
+                            "settings": {
+                                "title": "Our Latest PROJECT",
+                                "align": "center",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=fc024e6"
+                                },
+                                "content_width": "full"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1f496a73",
+                            "settings": {
+                                "align": "center",
+                                "content_width": "full"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "7749ce8",
+                    "settings": {
+                        "flex_direction": "row",
+                        "flex_justify_content_tablet": "center",
+                        "flex_align_items_tablet": "flex-start",
+                        "flex_wrap_tablet": "wrap",
+                        "_title": "Portfolio 1"
+                    },
+                    "elements": [
+                        {
+                            "id": "6ece51e1",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_title": "1"
+                            },
+                            "elements": [
+                                {
+                                    "id": "71429164",
+                                    "settings": {
+                                        "youtube_url": "https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E",
+                                        "vimeo_url": "https:\/\/vimeo.com\/235215203",
+                                        "dailymotion_url": "https:\/\/www.dailymotion.com\/video\/x6tqhqb",
+                                        "show_image_overlay": "yes",
+                                        "image_overlay": {
+                                            "url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/side-view-of-serious-women-looking-at-each-other-2021-08-30-19-56-41-utc.jpg",
+                                            "id": 63,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "play_icon_size": {
+                                            "unit": "px",
+                                            "size": 55,
+                                            "sizes": []
+                                        },
+                                        "videopress_url": "https:\/\/videopress.com\/v\/ZCAOzTNk",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "video",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "344b2eac",
+                                    "settings": {
+                                        "title": "Daughter vs mom - movie",
+                                        "header_size": "h5",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "7a3ff13d",
+                                    "settings": {
+                                        "title": "Sinonpsis",
+                                        "header_size": "h6",
+                                        "__globals__": {
+                                            "typography_typography": "globals\/typography?id=c5e9977"
+                                        },
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "1d322816",
+                                    "settings": {
+                                        "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.<\/p>",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "1c21b521",
+                                    "settings": {
+                                        "text": "Read More",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "57654f75",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_title": "2"
+                            },
+                            "elements": [
+                                {
+                                    "id": "5be76d1",
+                                    "settings": {
+                                        "youtube_url": "https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E",
+                                        "vimeo_url": "https:\/\/vimeo.com\/235215203",
+                                        "dailymotion_url": "https:\/\/www.dailymotion.com\/video\/x6tqhqb",
+                                        "show_image_overlay": "yes",
+                                        "image_overlay": {
+                                            "url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/black-and-white-headshot-of-african-man-and-cauca-2022-02-08-03-57-50-utc.jpg",
+                                            "id": 67,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "play_icon_size": {
+                                            "unit": "px",
+                                            "size": 55,
+                                            "sizes": []
+                                        },
+                                        "videopress_url": "https:\/\/videopress.com\/v\/ZCAOzTNk",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "video",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "fd37de8",
+                                    "settings": {
+                                        "title": "Into Your Heart - movie",
+                                        "header_size": "h5",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "656dbcb7",
+                                    "settings": {
+                                        "title": "Sinonpsis",
+                                        "header_size": "h6",
+                                        "__globals__": {
+                                            "typography_typography": "globals\/typography?id=c5e9977"
+                                        },
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "59d215c2",
+                                    "settings": {
+                                        "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.<\/p>",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "372e3545",
+                                    "settings": {
+                                        "text": "Read More",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "7d753023",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 98,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_title": "3"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2450f953",
+                                    "settings": {
+                                        "youtube_url": "https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E",
+                                        "vimeo_url": "https:\/\/vimeo.com\/235215203",
+                                        "dailymotion_url": "https:\/\/www.dailymotion.com\/video\/x6tqhqb",
+                                        "show_image_overlay": "yes",
+                                        "image_overlay": {
+                                            "url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/japanese-students-meeting-outdoors-2021-09-01-23-43-05-utc.jpg",
+                                            "id": 68,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "play_icon_size": {
+                                            "unit": "px",
+                                            "size": 55,
+                                            "sizes": []
+                                        },
+                                        "videopress_url": "https:\/\/videopress.com\/v\/ZCAOzTNk",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "video",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "24298e79",
+                                    "settings": {
+                                        "title": "School life - movie",
+                                        "header_size": "h5",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "428eea01",
+                                    "settings": {
+                                        "title": "Sinonpsis",
+                                        "header_size": "h6",
+                                        "__globals__": {
+                                            "typography_typography": "globals\/typography?id=c5e9977"
+                                        },
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "22d46b48",
+                                    "settings": {
+                                        "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.<\/p>",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "2a4b638c",
+                                    "settings": {
+                                        "text": "Read More",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "779c3344",
+                    "settings": {
+                        "flex_direction": "row",
+                        "flex_justify_content_tablet": "center",
+                        "flex_align_items_tablet": "flex-start",
+                        "flex_wrap_tablet": "wrap",
+                        "_title": "Portfolio 2"
+                    },
+                    "elements": [
+                        {
+                            "id": "6dcfb167",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_title": "1"
+                            },
+                            "elements": [
+                                {
+                                    "id": "6176a5c8",
+                                    "settings": {
+                                        "youtube_url": "https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E",
+                                        "vimeo_url": "https:\/\/vimeo.com\/235215203",
+                                        "dailymotion_url": "https:\/\/www.dailymotion.com\/video\/x6tqhqb",
+                                        "show_image_overlay": "yes",
+                                        "image_overlay": {
+                                            "url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/man-with-guitar-2021-09-24-03-39-54-utc.jpg",
+                                            "id": 506,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "play_icon_size": {
+                                            "unit": "px",
+                                            "size": 55,
+                                            "sizes": []
+                                        },
+                                        "videopress_url": "https:\/\/videopress.com\/v\/ZCAOzTNk",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "video",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "703e9b24",
+                                    "settings": {
+                                        "title": "Lover on the buss - music video",
+                                        "header_size": "h5",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "6174d584",
+                                    "settings": {
+                                        "title": "Sinonpsis",
+                                        "header_size": "h6",
+                                        "__globals__": {
+                                            "typography_typography": "globals\/typography?id=c5e9977"
+                                        },
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "ac0c85f",
+                                    "settings": {
+                                        "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.<\/p>",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "57a57d46",
+                                    "settings": {
+                                        "text": "Read More",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "4f737ad4",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_title": "2"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2961b0a7",
+                                    "settings": {
+                                        "youtube_url": "https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E",
+                                        "vimeo_url": "https:\/\/vimeo.com\/235215203",
+                                        "dailymotion_url": "https:\/\/www.dailymotion.com\/video\/x6tqhqb",
+                                        "show_image_overlay": "yes",
+                                        "image_overlay": {
+                                            "url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/happy-2021-08-28-05-57-50-utc.jpg",
+                                            "id": 502,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "play_icon_size": {
+                                            "unit": "px",
+                                            "size": 55,
+                                            "sizes": []
+                                        },
+                                        "videopress_url": "https:\/\/videopress.com\/v\/ZCAOzTNk",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "video",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "42f47441",
+                                    "settings": {
+                                        "title": "Endless of happynes - music video",
+                                        "header_size": "h5",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "4c686a6a",
+                                    "settings": {
+                                        "title": "Sinonpsis",
+                                        "header_size": "h6",
+                                        "__globals__": {
+                                            "typography_typography": "globals\/typography?id=c5e9977"
+                                        },
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "4ddd25cf",
+                                    "settings": {
+                                        "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.<\/p>",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "5c108c97",
+                                    "settings": {
+                                        "text": "Read More",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "166cb813",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 98,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_title": "3"
+                            },
+                            "elements": [
+                                {
+                                    "id": "73fcbfe2",
+                                    "settings": {
+                                        "youtube_url": "https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E",
+                                        "vimeo_url": "https:\/\/vimeo.com\/235215203",
+                                        "dailymotion_url": "https:\/\/www.dailymotion.com\/video\/x6tqhqb",
+                                        "show_image_overlay": "yes",
+                                        "image_overlay": {
+                                            "url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/happy-couple-at-fun-fair-drinking-soft-drinks-2022-01-18-19-56-03-utc.jpg",
+                                            "id": 503,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "play_icon_size": {
+                                            "unit": "px",
+                                            "size": 55,
+                                            "sizes": []
+                                        },
+                                        "videopress_url": "https:\/\/videopress.com\/v\/ZCAOzTNk",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "video",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "3397a36",
+                                    "settings": {
+                                        "title": "great summer - TVC",
+                                        "header_size": "h5",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "7d42c43b",
+                                    "settings": {
+                                        "title": "Sinonpsis",
+                                        "header_size": "h6",
+                                        "__globals__": {
+                                            "typography_typography": "globals\/typography?id=c5e9977"
+                                        },
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "164c254a",
+                                    "settings": {
+                                        "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.<\/p>",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "1212031f",
+                                    "settings": {
+                                        "text": "Read More",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "18c82820",
+            "settings": {
+                "flex_direction": "column",
+                "padding": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "1",
+                    "bottom": "6",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "_title": "CTA"
+            },
+            "elements": [
+                {
+                    "id": "1bfdf399",
+                    "settings": {
+                        "flex_direction": "row",
+                        "flex_direction_tablet": "column",
+                        "flex_gap": {
+                            "column": "50",
+                            "row": "50",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 50
+                        },
+                        "flex_gap_tablet": {
+                            "column": "5",
+                            "row": "5",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 5
+                        },
+                        "background_background": "classic",
+                        "background_overlay_background": "classic",
+                        "background_overlay_image": {
+                            "url": "http:\/\/tykit.rometheme.pro\/cinestar\/wp-content\/uploads\/sites\/47\/2022\/02\/liquifer.png",
+                            "id": 258,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_overlay_position": "center center",
+                        "background_overlay_size": "cover",
+                        "background_overlay_opacity": {
+                            "unit": "px",
+                            "size": 0.05,
+                            "sizes": []
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "4",
+                            "right": "2",
+                            "bottom": "4",
+                            "left": "2",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=15e2c71"
+                        },
+                        "_title": "Edit Here"
+                    },
+                    "elements": [
+                        {
+                            "id": "2b3a9fec",
+                            "settings": {
+                                "flex_justify_content": "center",
+                                "_title": "Left"
+                            },
+                            "elements": [
+                                {
+                                    "id": "4319a9b4",
+                                    "settings": {
+                                        "title": "have idea in your mind ?",
+                                        "header_size": "h6",
+                                        "align": "left",
+                                        "align_tablet": "center",
+                                        "_animation": "fadeInUp",
+                                        "__globals__": {
+                                            "typography_typography": "globals\/typography?id=3a3b655"
+                                        },
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "5bbfc293",
+                                    "settings": {
+                                        "title": "Lets have a project with cinestar studio",
+                                        "align": "left",
+                                        "align_tablet": "center",
+                                        "__globals__": {
+                                            "typography_typography": "globals\/typography?id=fc024e6"
+                                        },
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "47100c35",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_justify_content": "center",
+                                "_title": "Right"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2c533dda",
+                                    "settings": {
+                                        "align_tablet": "center",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "6a45b5ac",
+                                    "settings": {
+                                        "text": "contact us",
+                                        "align_tablet": "center",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_header_footer"
+    }
+}

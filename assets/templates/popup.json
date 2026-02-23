@@ -1,0 +1,206 @@
+{
+    "version": "0.4",
+    "title": "Popup",
+    "type": "popup",
+    "metadata": {
+        "template_type": "section-popup",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "popup",
+        "elementor_pro_conditions": [
+            "include\/singular\/front_page"
+        ],
+        "additional_template_information": [
+            "This is a \"Popup\" template for Elementor Pro.",
+            "This template will display on: Front Page."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "53ad8459",
+            "settings": {
+                "gap": "no",
+                "structure": "20",
+                "background_background": "classic",
+                "_title": "Section: Popup",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=a17a57d"
+                }
+            },
+            "elements": [
+                {
+                    "id": "22149f7d",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "",
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "https:\/\/templatekits.themewarrior.com\/filmina\/wp-content\/uploads\/sites\/84\/2023\/04\/65DHGGA-popup-min.jpg",
+                            "id": "708",
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "493863d4",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": "350",
+                                    "sizes": []
+                                },
+                                "space_mobile": {
+                                    "unit": "px",
+                                    "size": "250",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                },
+                {
+                    "id": "2e1bbd75",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "",
+                        "content_position": "center",
+                        "space_between_widgets": "10",
+                        "padding": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": "1"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "395bb138",
+                            "settings": {
+                                "title": "Get 20% off your first order!",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=secondary",
+                                    "typography_typography": "globals\/typography?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "58148aa",
+                            "settings": {
+                                "title": "Sign up and unlock your instant discount",
+                                "header_size": "h6",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=accent",
+                                    "typography_typography": "globals\/typography?id=7a2b302"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2fd68245",
+                            "settings": {
+                                "form_name": "New Form",
+                                "form_fields": [
+                                    {
+                                        "custom_id": "email",
+                                        "field_type": "email",
+                                        "required": "true",
+                                        "field_label": "Email",
+                                        "placeholder": "Email address",
+                                        "_id": "6db3a61"
+                                    }
+                                ],
+                                "step_next_label": "Next",
+                                "step_previous_label": "Previous",
+                                "button_text": "get discount",
+                                "email_content": "[all-fields]",
+                                "email_content_2": "[all-fields]",
+                                "success_message": "Your submission was successful.",
+                                "error_message": "Your submission failed because of an error.",
+                                "server_message": "Your submission failed because of a server error.",
+                                "invalid_message": "Your submission failed because the form is invalid.",
+                                "required_field_message": "This field is required."
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "form",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "42437cc0",
+                            "settings": {
+                                "title": "No dicount, thanks",
+                                "header_size": "h6",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=accent",
+                                    "typography_typography": "globals\/typography?id=e58fd68"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "width": {
+            "unit": "px",
+            "size": "700",
+            "sizes": []
+        },
+        "entrance_animation": "slideInDown",
+        "exit_animation": "slideInDown",
+        "entrance_animation_duration": {
+            "unit": "px",
+            "size": "0.6",
+            "sizes": []
+        },
+        "close_button_vertical": {
+            "unit": "%",
+            "size": "2",
+            "sizes": []
+        },
+        "close_button_horizontal": {
+            "unit": "%",
+            "size": "1",
+            "sizes": []
+        },
+        "width_mobile": {
+            "unit": "px",
+            "size": "320",
+            "sizes": []
+        },
+        "__globals__": {
+            "close_button_color": "globals\/colors?id=843b00e",
+            "close_button_hover_color": "globals\/colors?id=primary"
+        }
+    }
+}
