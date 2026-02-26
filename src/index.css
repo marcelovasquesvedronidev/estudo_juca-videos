@@ -24,3 +24,60 @@ button {
   border: none;
   background: none;
 }
+
+.template-header {
+  min-height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 20px 8vw;
+  position: relative;
+  z-index: 5;
+}
+
+.template-header__brand {
+  width: 40%;
+  min-width: 150px;
+}
+
+.template-header__brand img {
+  display: block;
+  width: 100%;
+  max-width: var(--header-logo-max-width, 50%);
+  height: auto;
+}
+
+.template-header__nav {
+  width: 60%;
+  display: flex;
+  justify-content: flex-end;
+  gap: 22px;
+  font-family: var(--header-font, "Archivo"), system-ui, sans-serif;
+  font-weight: 800;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+.template-header__nav a {
+  color: var(--header-menu-color, #ffffff);
+  transition: color 160ms ease;
+}
+
+.template-header__nav a:hover {
+  color: var(--header-hover-color, #ff934e);
+}
+
+@media (max-width: 768px) {
+  .template-header__brand {
+    width: 46%;
+  }
+
+  .template-header__nav {
+    width: 48%;
+    gap: 12px;
+    font-size: 0.72rem;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+}
